@@ -10,7 +10,7 @@
 
  ## Getting started
 
- |Day 1     |Day 2     |Day 3     |
+ |month 1     |month 2     |month 3     |
 |----------|----------|----------|
   Css        |   Html       |   Javascript       |
 |   Node  js          |   Python           |     ScL               |
